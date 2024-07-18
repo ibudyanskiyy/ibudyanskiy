@@ -21,7 +21,7 @@ My journey in Internet Technology has led me to develop a passion for networking
 | Azure Compute & Networking| Azure Lab | 
 | OsTicket Install & Configuration  | OsTicket Lab|
 | Cisco Network Creation | Cisco Packet Tracer Lab|
-| Implementing Active Directory Server 2019 | AD DS VirtualBox Lab|
+| Implementing Active Directory Server | AD DS Lab|
 
 ## Tools 
 <div>
