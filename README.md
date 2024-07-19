@@ -17,12 +17,16 @@ My journey in Internet Technology has led me to develop a passion for networking
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Hacking  | AD DS Hacking Lab|
+| Creating an Active Directory Environment  | AD DS Hacking Lab|
 | Azure Compute & Networking| Azure Lab | 
 | OsTicket Install & Configuration  | OsTicket Lab|
 | Cisco Network Creation | Cisco Packet Tracer Lab|
-| Implementing Active Directory Server | AD DS Lab|
-
+| Deploying a Domain Controller | AD DS Lab|
+| User Password Reset & Management |   |
+| Group Policy Implementation |  |
+| Mapping a Share Drive |   | 
+| Creating a Firewall Using Group Policy |   |           
+                               
 ## Tools 
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
