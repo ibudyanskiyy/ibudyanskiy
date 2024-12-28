@@ -17,7 +17,7 @@ My journey in Internet Technology has led me to develop a passion for networking
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Creating an Active Directory Environment  | AD DS Hacking Lab|
+| Creating an Active Directory Environment  | Active Directory Lab |
 | Azure Compute & Networking| Azure Lab | 
 | OsTicket Install & Configuration  | OsTicket Lab|
 | Cisco Network Creation | Cisco Packet Tracer Lab|
